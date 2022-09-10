@@ -1,4 +1,4 @@
-# Shopee Sales Analysis
+# Shopee Sales Prediction
 
 In this cases, I am challenged my self by predicting upcoming sales of my business (Abang Stiker). I have downloaded 2 years data record of my sales in Shopee, and pre processed it using Excel and Python. Since this is my first time series project, I tried to make it more simple by selecting only two variables which are date and sales. In my opinion, there are 2 important things in this project:
 
