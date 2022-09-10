@@ -5,4 +5,4 @@ In this cases, I am challenged my self by predicting upcoming sales of my busine
 1. Checking the stationary of our data using Dickey Fuller Test
 2. Analyzing the trend by asking "Is there seasonality or not?"
 
-Since, my data is indicationg a seasonality, I have decided to using SARIMAX ( Seasonal Autoregressive Integrated Moving Average) method. Otherwise, if the data does not indicate seasonality, we probably can use ARIMA method to get higher accuracy.
+Since, my data is indicating a seasonality, I have decided to using SARIMAX ( Seasonal Autoregressive Integrated Moving Average) method. Otherwise, if the data does not indicate seasonality, we probably can use ARIMA method to get higher accuracy. What I have done here is still far from perfect, there are some points that predicted either higher or lower than the exact value. Let me know, if you guys having a great suggestion for what should I improve in this code to get a better prediction. Cheers!
